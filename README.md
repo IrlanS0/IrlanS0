@@ -41,20 +41,7 @@ Tenho experiência acadêmica e prática com **C**, arquitetura de computadores,
 
 <br/>
 
-## 03. Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IrlanS0&show_icons=true&theme=dark&bg_color=0C0C0C&title_color=F97316&icon_color=F97316&text_color=A3A3A3&border_color=262626&hide_border=false" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrlanS0&layout=compact&theme=dark&bg_color=0C0C0C&title_color=F97316&text_color=A3A3A3&border_color=262626&hide_border=false" alt="Top Langs" width="35%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IrlanS0&theme=dark&background=0C0C0C&border=262626&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A3A3A3&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=737373" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-## 04. Coisas que construí
+## 03. Coisas que construí
 
 <table>
   <tr>
@@ -91,7 +78,7 @@ Tenho experiência acadêmica e prática com **C**, arquitetura de computadores,
 
 <br/>
 
-## 05. Contato
+## 04. Contato
 
 <p align="center">
   Se você quiser conversar sobre tecnologia, projetos, engenharia ou oportunidades, fique à vontade para entrar em contato.
